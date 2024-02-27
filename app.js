@@ -39,3 +39,7 @@ alert("My email is" + " " + email)
 
 var book = ("A smarter way to lerarn Java Script")
 alert("I am trying to learn from a Book " + book)
+
+// Question  8
+
+document.write("<h1>Yah! i can write html content through js</h1>")
